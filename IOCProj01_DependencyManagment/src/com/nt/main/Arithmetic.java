@@ -1,7 +1,7 @@
 package com.nt.main;
 
 public class Arithmetic {
-	public int sum(int x, int y) {
+	public Double sum(Double x, Double y) {
 		return x+y;
 	}
 }
