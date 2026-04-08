@@ -12,7 +12,9 @@ pom.xml
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
-release.properties
+# Ignore Spring Boot application config
+application.properties
+application.yml
 
 # Gradle specific
 .gradle/
