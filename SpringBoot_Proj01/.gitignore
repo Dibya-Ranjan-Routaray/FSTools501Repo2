@@ -8,7 +8,7 @@ bin/
 target/
 
 # Maven specific
-pom.xml.tag
+pom.xml
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
