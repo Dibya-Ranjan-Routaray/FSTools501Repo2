@@ -1,0 +1,19 @@
+# Eclipse Core settings
+.settings/
+.project
+.classpath
+
+# Build output directories
+bin/
+target/
+
+# Maven specific
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific
+.gradle/
+build/
