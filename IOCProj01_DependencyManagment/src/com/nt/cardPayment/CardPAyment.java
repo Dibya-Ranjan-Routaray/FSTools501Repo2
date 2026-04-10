@@ -9,7 +9,7 @@ public class CardPAyment {
 		return"using card payment using CreditCard";
 	}
 	public String cardPaymentUsinDebitCard() {
-		return"using card payment using DebitCard";
+		return"using card payment using DebitCard nmbshhfkG[132-33";
 	}
 	
 	
