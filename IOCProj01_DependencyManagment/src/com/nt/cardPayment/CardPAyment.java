@@ -4,4 +4,8 @@ public class CardPAyment {
 	public String cardPayment() {
 		return"using card payment";
 	}
+	
+	public String cardPaymentUsinCreditCard() {
+		return"using card payment using CreditCard";
+	}
 }
