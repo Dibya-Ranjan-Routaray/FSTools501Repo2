@@ -8,4 +8,9 @@ public class CardPAyment {
 	public String cardPaymentUsinCreditCard() {
 		return"using card payment using CreditCard";
 	}
+	public String cardPaymentUsinDebitCard() {
+		return"using card payment using DebitCard";
+	}
+	
+	
 }
